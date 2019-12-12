@@ -8,7 +8,7 @@
 	<title>CRUD AJAX</title>
 	<link rel="stylesheet" href="<?php echo base_url().'assets/bootstrap/css/bootstrap.min.css';?>">
 	<link rel="stylesheet" href="<?php echo base_url().'assets/dataTable/datatables.min.css';?>">
-	<link rel="stylesheet" href="<?php echo base_url().'assets/swal/sweetalert.css';?>">
+	<link rel="stylesheet" href="<?php echo base_url().'assets/swal/sweetalert2.css';?>">
 	<link rel="stylesheet" href="<?php echo base_url().'assets/font-awesome/css/font-awesome.min.css';?>">
 	<script>var BASE_URL = "<?php echo base_url(); ?>";</script>
 </head>
@@ -31,7 +31,7 @@
 	<script src="<?php echo base_url().'assets/js/jquery-3.4.1.js';?>"></script>
 	<script src="<?php echo base_url().'assets/bootstrap/js/bootstrap.min.js';?>"></script>
 	<script src="<?php echo base_url().'assets/dataTable/datatables.min.js';?>"></script>
-	<script src="<?php echo base_url().'assets/swal/sweetalert.min.js';?>"></script>
+	<script src="<?php echo base_url().'assets/swal/sweetalert2.all.js';?>"></script>
 	<script src="<?php echo base_url().'assets/js/ajax/custom.msg.js';?>"></script>
 	<script src="<?php echo base_url().'assets/js/ajax/style.js';?>"></script>
 </body>
